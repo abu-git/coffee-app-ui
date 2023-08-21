@@ -1,6 +1,6 @@
 # coffee-app-ui
 
-![](https://github.com/abu-git/coffee-app-ui/tree/main/assets/gif/ezgifcom-resize.gif)
+![](https://github.com/abu-git/coffee-app-ui/blob/main/assets/gif/ezgifcom-resize.gif)
 
 This is a simple Coffee Order App UI made using React Native. Inspiration drawn from Nomi's tutorial
 
